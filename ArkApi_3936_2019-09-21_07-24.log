@@ -1,0 +1,31 @@
+09/21/19 07:24 [API][info] -----------------------------------------------
+09/21/19 07:24 [API][info] ARK: Server Api V3.0
+09/21/19 07:24 [API][info] Loading...
+
+09/21/19 07:24 [API][info] Dumping structures..
+09/21/19 07:24 [API][info] Dumping functions..
+09/21/19 07:24 [API][info] Dumping globals..
+09/21/19 07:24 [API][info] Successfully read information from PDB
+
+09/21/19 07:24 [API][info] Initialized hooks
+
+09/21/19 07:24 [API][info] API was successfully loaded
+09/21/19 07:24 [API][info] -----------------------------------------------
+
+09/21/19 07:24 [API][info] UGameEngine::Init was called
+09/21/19 07:24 [API][info] Loading plugins..
+
+09/21/19 07:24 [API][info] Loaded plugin All Engrams V1.6 (The easy way to learn all engrams)
+09/21/19 07:24 [API][info] Loaded plugin Dino colors V1.1 (Random dino colors)
+09/21/19 07:24 [API][info] Loaded plugin Mutes V1.4 (Mute / IP Mute / IP Ban)
+09/21/19 07:24 [API][info] Loaded plugin Permissions V1.3 (Manage permissions groups)
+09/21/19 07:24 [API][info] Loaded plugin Plugin Crash Manager V1.1 (Automatic save & restart after crash)
+09/21/19 07:24 [API][info] Loaded plugin Plugin Update Checker V1.3 (Checks for updates)
+09/21/19 07:24 [RconCrossServerChat][info] 127.0.0.1:27020 Rcon Server Added.
+09/21/19 07:24 [RconCrossServerChat][info] 127.0.0.1:27015 Rcon Server Added.
+09/21/19 07:24 [RconCrossServerChat][info] 127.0.0.1:27002 Rcon Server Added.
+09/21/19 07:24 [RconCrossServerChat][info] 127.0.0.1:27001 Rcon Server Added.
+09/21/19 07:24 [API][info] Loaded plugin RconCrossServerChat V1.7 (Cross Server chat using RCON)
+09/21/19 07:24 [API][info] Loaded all plugins
+
+09/21/19 07:26 [API][info] UWorld::InitWorld was called

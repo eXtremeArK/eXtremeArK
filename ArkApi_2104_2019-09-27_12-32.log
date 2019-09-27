@@ -1,0 +1,67 @@
+09/27/19 12:32 [API][info] -----------------------------------------------
+09/27/19 12:32 [API][info] ARK: Server Api V3.0
+09/27/19 12:32 [API][info] Loading...
+
+09/27/19 12:32 [API][info] Dumping structures..
+09/27/19 12:33 [API][info] Dumping functions..
+09/27/19 12:33 [API][info] Dumping globals..
+09/27/19 12:33 [API][info] Successfully read information from PDB
+
+09/27/19 12:33 [API][info] Initialized hooks
+
+09/27/19 12:33 [API][info] API was successfully loaded
+09/27/19 12:33 [API][info] -----------------------------------------------
+
+09/27/19 12:33 [API][info] UGameEngine::Init was called
+09/27/19 12:33 [API][info] Loading plugins..
+
+09/27/19 12:33 [API][info] Loaded plugin All Engrams V1.6 (The easy way to learn all engrams)
+09/27/19 12:33 [API][info] Loaded plugin AntiMesh V1.0 (Prevent undermesh raids)
+09/27/19 12:33 [API][info] Loaded plugin Dino colors V1.1 (Random dino colors)
+09/27/19 12:33 [API][info] Loaded plugin Mutes V1.4 (Mute / IP Mute / IP Ban)
+09/27/19 12:33 [API][info] Loaded plugin Permissions V1.3 (Manage permissions groups)
+09/27/19 12:33 [API][info] Loaded plugin Plugin Crash Manager V1.1 (Automatic save & restart after crash)
+09/27/19 12:33 [API][info] Loaded plugin Plugin Update Checker V1.3 (Checks for updates)
+09/27/19 12:33 [RconCrossServerChat][info] 127.0.0.1:27020 Rcon Server Added.
+09/27/19 12:33 [RconCrossServerChat][info] 127.0.0.1:27015 Rcon Server Added.
+09/27/19 12:33 [RconCrossServerChat][info] 127.0.0.1:27002 Rcon Server Added.
+09/27/19 12:33 [RconCrossServerChat][info] 127.0.0.1:27001 Rcon Server Added.
+09/27/19 12:33 [API][info] Loaded plugin RconCrossServerChat V1.7 (Cross Server chat using RCON)
+09/27/19 12:33 [API][info] Loaded all plugins
+
+09/27/19 12:34 [API][info] UWorld::InitWorld was called
+09/27/19 12:34 [AntiMesh][info] User authorized
+09/27/19 12:34 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 12:34 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 12:42 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 12:42 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 12:45 [RconCrossServerChat][error] Failed To Connect To Ark Server Rcon 127.0.0.1:27002 Error: 0, Trying again in 1 minute(s).
+09/27/19 12:45 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 12:45 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 12:50 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 12:50 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 12:56 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 12:56 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 13:03 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 13:03 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 13:09 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 13:09 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 13:10 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 13:10 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 13:17 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 13:17 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 13:21 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 13:21 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 13:24 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 13:24 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 13:25 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 13:25 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 13:28 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 13:28 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 13:30 [AntiMesh][critical] [json.exception.type_error.302] type must be string, but is null
+09/27/19 13:36 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 13:36 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 13:37 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 13:37 [AntiMesh][critical] Your server doesn't support Thread - 15.
+09/27/19 13:40 [AntiMesh][critical] Your server doesn't support Thread - 14.
+09/27/19 13:40 [AntiMesh][critical] Your server doesn't support Thread - 15.

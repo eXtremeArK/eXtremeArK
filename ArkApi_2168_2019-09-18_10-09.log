@@ -1,0 +1,26 @@
+09/18/19 10:09 [API][info] -----------------------------------------------
+09/18/19 10:09 [API][info] ARK: Server Api V3.0
+09/18/19 10:09 [API][info] Loading...
+
+09/18/19 10:09 [API][info] Dumping structures..
+09/18/19 10:09 [API][info] Dumping functions..
+09/18/19 10:09 [API][info] Dumping globals..
+09/18/19 10:09 [API][info] Successfully read information from PDB
+
+09/18/19 10:09 [API][info] Initialized hooks
+
+09/18/19 10:09 [API][info] API was successfully loaded
+09/18/19 10:09 [API][info] -----------------------------------------------
+
+09/18/19 10:09 [API][info] UGameEngine::Init was called
+09/18/19 10:09 [API][info] Loading plugins..
+
+09/18/19 10:09 [API][info] Loaded plugin All Engrams V1.6 (The easy way to learn all engrams)
+09/18/19 10:09 [API][info] Loaded plugin Dino colors V1.1 (Random dino colors)
+09/18/19 10:09 [API][info] Loaded plugin Mutes V1.4 (Mute / IP Mute / IP Ban)
+09/18/19 10:09 [API][info] Loaded plugin Permissions V1.3 (Manage permissions groups)
+09/18/19 10:09 [API][info] Loaded plugin Plugin Crash Manager V1.1 (Automatic save & restart after crash)
+09/18/19 10:09 [API][info] Loaded plugin Plugin Update Checker V1.3 (Checks for updates)
+09/18/19 10:09 [API][info] Loaded all plugins
+
+09/18/19 10:11 [API][info] UWorld::InitWorld was called
