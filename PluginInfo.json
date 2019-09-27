@@ -1,0 +1,10 @@
+{
+  "FullName":"AntiMesh",
+  "Description":"Prevent undermesh raids",
+  "Version":1.0,
+  "MinApiVersion":3.0,
+  "ResourceId":1488,
+  "Dependencies":[
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "structures":[
+    "APrimalBuff",
+    "FWeaponData",
+    "UNetConnection",
+    "FOutBunch",
+    "UChannel",
+    "UActorChannel",
+    "FArchive",
+    "FBitArchive",
+    "FBitReader",
+    "FNetBitReader",
+    "FInBunch",
+    "UPawnMovementComponent",
+    "UCharacterMovementComponent",
+    "USkeletalMeshComponent",
+    "USkeletalMeshComponentBudgeted",
+    "USceneComponent",
+    "UPrimitiveComponent",
+    "UMeshComponent",
+    "USkinnedMeshComponent",
+    "UDebugSkelMeshComponent",
+    "AShooterWeapon_Instant",
+    "FItemStatInfo",
+    "FSocket",
+    "FSocketBSD",
+    "FInternetAddr",
+    "FInternetAddrBSD"
+  ]
+}

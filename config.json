@@ -1,0 +1,64 @@
+{
+    "General":{
+        "Threads":"",
+        "AntiMesh_DiscordWebhookToken": "https://discordapp.com/api/webhooks/627190128586260500/lHZ9iEN3DEDv2E7JmFi5d9igOMVxhOP-02NxDS_wXXTlgd2Q38fUAEDgTV2MWUK8OLdi",
+        "AntiCheat_DiscordWebhookToken": "https://discordapp.com/api/webhooks/627190128586260500/lHZ9iEN3DEDv2E7JmFi5d9igOMVxhOP-02NxDS_wXXTlgd2Q38fUAEDgTV2MWUK8OLdi"
+		
+     },
+    
+    "AntiCheat":{
+        "Enabled":true,
+        "FireRateData":{
+            "PrimalItem_WeaponRifle":9,
+            "Default":6
+        },
+        "RCONServers":{},
+        "CheatDetected":{
+            "BanPlayer": true,
+            "ExecuteConsoleCommands": {},
+            "KickPlayer": false,
+            "KillPlayer": false,
+            "PenaltyMessage": "Cheat detected! You've been banned"
+        }
+    },
+    "AttackFromMesh": {
+        "BanPlayer": false,
+        "ExecuteConsoleCommands": {},
+        "KickPlayer": false,
+        "KillPlayer": true,
+        "PenaltyMessage": "Undermesh detected! You've been killed"
+    },
+    "IncludedMeshes": [
+        "Rock",
+        "StaticMesh",
+        "Bridge",
+        "Formation",
+        "Inside",
+        "Butte"
+    ],
+    "PlayerInsideMesh": {
+        "BanPlayer": false,
+        "ExecuteConsoleCommands": {},
+        "KickPlayer": false,
+        "KillPlayer": true,
+        "PenaltyMessage": "Undermesh detected! You've been teleported back",
+        "TeleportPlayerFromMesh": true
+    },
+    "Structures": {
+        "BanPlayer": false,
+        "DestroyUndermeshStructure": true,
+        "ExecuteConsoleCommands": {},
+        "KickPlayer": false,
+        "KillPlayer": false,
+        "PenaltyMessage": "You can't place structure there",
+        "PreventUndermeshPlacement": true
+    },
+    "ExcludedCords": [
+        
+    ],
+    "ExcludedMeshes": [
+        "Platform",
+        "Arch"
+    ],
+    "IgnoreAdmin": false
+}
