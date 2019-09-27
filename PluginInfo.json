@@ -1,7 +1,7 @@
 {
-  "FullName":"Mutes",
-  "Description":"Mute / IP Mute / IP Ban",
-  "Version":1.4,
-  "MinApiVersion":2.0,
-  "ResourceId":13
+  "FullName": "New Player Protection Plugin",
+  "Description": "Gives new players structure protection.",
+  "Version": 1.8,
+  "MinApiVersion": 3.0,
+  "ResourceId": 50
 }
