@@ -1,9 +1,9 @@
 {
     "data": {
         "id": 1,
-        "event": "block.forged",
+        "event": "Kill",
         "target": "https://httpbin.org/post",
-        "token": "7e66949f67b36c34a05eeb3a866957b3f1b6f8947fb215500b78e5091d4e484a",
+        "token": 	"K5tUWwwRDOkGy4nOKIB6FU1q1QeEeEge3rBpJGX_psFYzsrdec9nCccoEEoeQ7K4kSbC",
         "enabled": true,
         "conditions": [
             {
