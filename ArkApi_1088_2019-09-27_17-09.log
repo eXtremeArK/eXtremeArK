@@ -2,7 +2,7 @@
     "data": {
         "id": 627861195633983499,
         "event": "Kill",
-        "target": "https://httpbin.org/post",
+        "target": "https://discordapp.com/api/webhooks/627861328769450014/K5tUWwwRDOkGy4nOKIB6FU1q1QeEeEge3rBpJGX_psFYzsrdec9nCccoEEoeQ7K4kSbC",
         "token": 	"K5tUWwwRDOkGy4nOKIB6FU1q1QeEeEge3rBpJGX_psFYzsrdec9nCccoEEoeQ7K4kSbC",
         "enabled": true,
         "conditions": [
