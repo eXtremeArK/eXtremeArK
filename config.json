@@ -1,64 +1,16 @@
 {
-    "General":{
-        "Threads":"14,15",
-        "AntiMesh_DiscordWebhookToken": "https://discordapp.com/api/webhooks/627818484222656513/QAn1Mg2YBTYKjWajRFBTYjHtXGuZpB2cti3EQiW9mJ7Db2QVjEQSo0MpWk2I_Bglws_g",
-        "AntiCheat_DiscordWebhookToken": "https://discordapp.com/api/webhooks/627818484222656513/QAn1Mg2YBTYKjWajRFBTYjHtXGuZpB2cti3EQiW9mJ7Db2QVjEQSo0MpWk2I_Bglws_g"
-		
-     },
-    
-    "AntiCheat":{
-        "Enabled":true,
-        "FireRateData":{
-            "PrimalItem_WeaponRifle":9,
-            "Default":6
-        },
-        "RCONServers":{},
-        "CheatDetected":{
-            "BanPlayer": true,
-            "ExecuteConsoleCommands": {},
-            "KickPlayer": false,
-            "KillPlayer": false,
-            "PenaltyMessage": "Cheat detected! You've been banned"
-        }
-    },
-    "AttackFromMesh": {
-        "BanPlayer": false,
-        "ExecuteConsoleCommands": {},
-        "KickPlayer": false,
-        "KillPlayer": true,
-        "PenaltyMessage": "Undermesh detected! You've been killed"
-    },
-    "IncludedMeshes": [
-        "Rock",
-        "StaticMesh",
-        "Bridge",
-        "Formation",
-        "Inside",
-        "Butte"
-    ],
-    "PlayerInsideMesh": {
-        "BanPlayer": false,
-        "ExecuteConsoleCommands": {},
-        "KickPlayer": false,
-        "KillPlayer": true,
-        "PenaltyMessage": "Undermesh detected! You've been teleported back",
-        "TeleportPlayerFromMesh": true
-    },
-    "Structures": {
-        "BanPlayer": false,
-        "DestroyUndermeshStructure": true,
-        "ExecuteConsoleCommands": {},
-        "KickPlayer": false,
-        "KillPlayer": false,
-        "PenaltyMessage": "You can't place structure there",
-        "PreventUndermeshPlacement": true
-    },
-    "ExcludedCords": [
-        
-    ],
-    "ExcludedMeshes": [
-        "Platform",
-        "Arch"
-    ],
-    "IgnoreAdmin": false
+    "data": {
+        "id": 627861195633983499,
+        "event": "Kill",
+        "target": "https://discordapp.com/api/webhooks/627861328769450014/K5tUWwwRDOkGy4nOKIB6FU1q1QeEeEge3rBpJGX_psFYzsrdec9nCccoEEoeQ7K4kSbC",
+        "token": "K5tUWwwRDOkGy4nOKIB6FU1q1QeEeEge3rBpJGX_psFYzsrdec9nCccoEEoeQ7K4kSbC",
+        "enabled": true,
+        "conditions": [
+            {
+                "key": "generatorPublicKey",
+                "condition": "eq",
+                "value": "032fcfd19f0e095bf46bd3ada87e283720c405249b1be1a70bad1d5f20095a8515"
+            }
+        ]
+    }
 }
